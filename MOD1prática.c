@@ -56,7 +56,7 @@ int main(){
                     totalLivros++;
                 } else {
                     printf("\nBiblioteca está cheia! Não é possível mais cadastrar livros.\n")
-                }
+                };
                 printf("\n");
                 getchar();
                 break;
